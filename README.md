@@ -75,7 +75,7 @@ I’m always open to discussing backend systems, AI, or new ideas that push the 
 If you’re working on something exciting or just want to share knowledge — I’d love to connect!  
 
 📬 **Email:** [durgapadakaran88@gmail.com](mailto:durgapadakaran88@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/durgapada-karan-6067a3260](https://www.linkedin.com/in/durgapada-karan-6067a3260/) 
+💼 **LinkedIn:** [linkedin.com/in/durgapada-karan-6067a3260](https://www.linkedin.com/in/durgapada-karan-6067a3260/)  
 💻 **GitHub:** [github.com/DurgapadaKaran]( https://github.com/DURGAPADA80)
 ---
 
