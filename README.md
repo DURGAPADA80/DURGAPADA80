@@ -56,12 +56,18 @@ If you’re working on something exciting or just want to share knowledge — I�
 🌐 **Social Links**
 
 📬 **Email:** →   [durgapadakaran88@gmail.com](mailto:durgapadakaran88@gmail.com)    
-💼 **LinkedIn:**→ [linkedin.com/in/durgapada-karan-6067a3260](https://www.linkedin.com/in/durgapada-karan-6067a3260/)   
+💼 **LinkedIn:**→ [linkedin.com/in/durgapada-karan-6067a3260](https://www.linkedin.com/in/durgapada-karan-6067a3260/)
+
 💻 **GitHub:** →  [github.com/DurgapadaKaran]( https://github.com/DURGAPADA80) 
+
 📘 **Facebook**→ [facebook.com/durgapada.karan.5](https://www.facebook.com/durgapada.karan.5) 
+
 📸 **Instagram** → [instagram.com/durgapadakaran](https://www.instagram.com/durgapadakaran/) 
+
 💬 **Telegram** → [t.me/Jacksparrow8016](https://t.me/Jacksparrow8016) 
+
 📝 **Blog** → [durgapadakaran.blogspot.com](https://durgapadakaran.blogspot.com/) 
+
 🐦 **X (Twitter)** → [x.com/KaranDurgapada](https://x.com/KaranDurgapada) 
 
 ---
