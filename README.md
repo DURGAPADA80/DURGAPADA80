@@ -7,10 +7,7 @@ Hi, I'm **Durgapada** — a B.Tech student specializing in **Computer Science (A
 I’m passionate about building intelligent systems and robust backend solutions that merge the worlds of **software engineering** and **artificial intelligence**.  
 
 I love exploring how AI can empower backend systems — from automation and optimization to real-world problem-solving.  
-My journey so far includes working with **Flutter**, learning **Data Structures & Algorithms (DSA)**, and preparing for **GATE CSE 2026** to strengthen my computer science fundamentals.
-
-I’ve completed an **8-week internship at Thaingagin Lab**, where I developed practical Flutter applications like a **Simple Calculator** and a **Pomodoro App**.  
-Alongside, I continue to explore **C++, Java, and Python**, while sharpening my skills on **GitHub** and **LeetCode**.
+My journey so far includes working with **Flutter**, learning **Data Structures & Algorithms (DSA)**, and preparing for **GATE** to strengthen my computer science fundamentals.
 
 Based in **West Bengal, India**, I’m driven to create solutions that combine **AI intelligence** with **backend efficiency**, and I’m always excited to collaborate on impactful tech projects.
 
@@ -18,7 +15,7 @@ Based in **West Bengal, India**, I’m driven to create solutions that combine *
 ## 💼 A Little About Me
 ⚙️ Learning to design end-to-end backend systems integrated with AI and automation.  
 🤖 Exploring the fields of **Machine Learning**, **Data Science**, and **AI-driven backend development**.  
-🧩 Practicing **DSA** in **C** to enhance problem-solving and algorithmic thinking.  
+🧩 Practicing **DSA** in **python** to enhance problem-solving and algorithmic thinking.  
 🛠️ Believe in writing **clean, modular, and optimized** code for long-term maintainability.  
 🧠 Firm believer that **consistency beats intensity** — every day is a learning day.  
 🔬 Fun Fact: I debug my code until it starts respecting me 😄  
@@ -52,7 +49,7 @@ Here’s what I work with and explore regularly:
 
 ---
 ## 🚀 Current Goals
-📘 Preparing for **GATE CSE 2026**  
+📘 Preparing for **GATE CSE 2027**  
 💡 Building a strong foundation in **Data Structures & Algorithms**  
 ⚙️ Gaining hands-on experience in **Web Development**  
 🤖 Exploring **AI integration in server-side systems & Backend Dev**  
