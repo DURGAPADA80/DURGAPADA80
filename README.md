@@ -25,15 +25,25 @@ Based in **West Bengal, India**, I’m driven to create solutions that combine *
 
 ---
 ## 🧰 Tech Toolbox
-Here’s what I work with and explore regularly:  
 
-**Languages:**    `C` • `Python` • `HTML` • `CSS` • `JavaScript`  
-**Frameworks & Tools:**  `Flutter` • `Android Studio` • `Git`   
-**AI/ML Tools:**  `NumPy` • `Pandas` • `TensorFlow (Learning)`   
-**Databases:**  `MySQL` • `PostgreSQL`  
-**Development:**  `Backend Logic` • `Flask (Learning)`   
-**Other Tools:**  `VS Code` • `PowerShell` • `GitHub`    
-**Learning Platforms:**  `Physics Wallah (GATE CSE Prep 2026)` • `LeetCode`  • `YouTube` • `Udemy`      
+Here’s what I work with and explore regularly:
+
+### 💻 Languages
+`Python` • `c` • `Java` • `HTML` • `CSS` • `JavaScript`
+
+### 🚀 Frameworks & Technologies
+`React ` • `Flutter` •  `Flask ` • `REST APIs`
+
+### 🤖 AI / Machine Learning
+`NumPy` • `Pandas` • `TensorFlow (Learning)` • `Scikit-learn (Learning)`
+### 🗄️ Databases
+`MySQL` • `PostgreSQL`
+### 🛠️ Tools
+`Git` • `GitHub` • `VS Code` • `Android Studio` • `Postman` • `PowerShell` • `Firebase`
+### 📚 Currently Learning
+`Data Structures & Algorithms` • `System Design Basics`
+### 🎯 Learning Platforms
+`LeetCode` • `Physics Wallah (GATE CSE )` • `Udemy` • `YouTube`   
 
 ---
 ## 🎓 Education
